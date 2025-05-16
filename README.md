@@ -5,7 +5,8 @@
 🚀 Skills
 
 Frontend: React, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap  
-Backend: Node.js, Express.js, MongoDB, MySQL, REST APIs  
+Backend: Node.js, Express.js, REST APIs  
+Database: MongoDB, MySQL
 Blockchain: Smart Contract Development, Web3.js  
 Tools: Git, VS Code, Postman  
 Other: Responsive Design, Performance Optimization
